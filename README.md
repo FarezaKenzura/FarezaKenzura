@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **C#,Unity,Tailwind**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/farezaathala](https://linktr.ee/farezaathala)
+- 👨‍💻 All of my projects are available at [Fusion]([https://linktr.ee/farezaathala](https://fusion-kenzura.itch.io/))
 
 - 💬 Ask me about **Unity, C#**
 
