@@ -2,13 +2,11 @@
 <h3 align="center">A passionate Game Developer from Indonesia</h3>
 <img align="right" alt="Coding" width="300" src="https://github.com/FarezaKenzura.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farezakenzura&label=Profile%20views&color=0e75b6&style=flat" alt="farezakenzura" /> </p>
-
 - 🔭 I’m currently working on [Dream Escape](https://dezirestudio.itch.io/dreamescape)
 
-- 🌱 I’m currently learning **C#,Unity,Tailwind**
+- 🌱 I’m currently learning **C#, Unity, Tailwind**
 
-- 👨‍💻 All of my projects are available at [Fusion](https://fusion-kenzura.itch.io/)
+- 👨‍💻 My projects Games are available at Itch.io [Fusion](https://fusion-kenzura.itch.io/)
 
 - 💬 Ask me about **Unity, C#**
 
