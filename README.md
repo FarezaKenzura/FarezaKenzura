@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Cresser Project](https://www.instagram.com/c17games/) & Realm Papers
 
-- 🌱 I’m currently learning **C#, Unity, Tailwind**
+- 🌱 I’m currently learning **C#, Unity, Tailwind, React Js, Laravel**
 
 - 👨‍💻 My projects Games are available at Itch.io [Fusion](https://fusion-kenzura.itch.io/)
 
