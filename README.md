@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Game Developer from Indonesia</h3>
 <img align="right" alt="Coding" width="250" src="https://github.com/FarezaKenzura.png">
 
-- 🔭 I’m currently working on [Cresser Project](https://www.instagram.com/c17games/) & [Realm Papers](https://fusion-kenzura.itch.io/realms-paper)
+- 🔭 I’m currently working on [Harmony](https://github.com/FarezaKenzura/Harmony)
 
 - 🌱 I’m currently learning **C#, Unity, Tailwind, React Js, Laravel**
 
