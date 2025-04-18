@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **Ordinary People**
 
-## 🌐 Connect With Me:
+## 🌐 Connect With Me: 
 <a href="https://linkedin.com/in/farezaathala" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="farezaathala" height="30" width="40" /></a>
 </p>
 
@@ -44,5 +44,4 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=FarezaKenzura&theme=tokyonight)
 
----
-[![](https://visitcount.itsvg.in/api?id=FarezaKenzura&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">    
