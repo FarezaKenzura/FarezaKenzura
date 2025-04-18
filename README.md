@@ -13,10 +13,14 @@
 - 📫 How to reach me **farezaathala10@gmail.com**
 
 - ⚡ Fun fact **Ordinary People**
+  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🌐 Connect With Me: 
 <a href="https://linkedin.com/in/farezaathala" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="farezaathala" height="30" width="40" /></a>
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">    
 
 # 💻 Tech Stack:
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/></code>
@@ -36,12 +40,22 @@
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/></code> 
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">    
+
 # 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farezakenzura&show_icons=true&theme=tokyonight&layout=compact" alt="farezakenzura" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farezakenzura&show_icons=true&theme=tokyonight" alt="farezakenzura" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farezakenzura&theme=tokyonight" alt="farezakenzura" /></p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">    
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=FarezaKenzura&theme=tokyonight)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">    
+
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
