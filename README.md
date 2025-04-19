@@ -22,7 +22,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">    
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/></code> 
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></code>
@@ -42,7 +42,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">    
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farezakenzura&show_icons=true&theme=tokyonight&layout=compact" alt="farezakenzura" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farezakenzura&show_icons=true&theme=tokyonight" alt="farezakenzura" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farezakenzura&theme=tokyonight" alt="farezakenzura" /></p>
