@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Game Developer from Indonesia</h3>
 <img align="right" alt="Coding" width="250" src="https://github.com/FarezaKenzura.png">
 
-- 🔭 I’m currently working on [Emotion Quest](https://dezirestudio.itch.io/emotionquest) & [Sold Out](https://kelompok-1-agate-msib.itch.io/sold-out)
+- 🔭 I’m currently working on Curatoria & [Sold Out](https://kelompok-1-agate-msib.itch.io/sold-out)
 
 - 🌱 I’m currently learning **C#, Unity, Tailwind, React Js, Laravel**
 
